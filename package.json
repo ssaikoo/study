@@ -10,8 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.1",
+<<<<<<< HEAD
     "express": "^4.17.1",
     "mysql": "^2.11.1"
+=======
+    "express": "^4.17.1"
+>>>>>>> 92086f7244d864a2c1c7800a14e2e752b215fa58
   },
   "devDependencies": {},
   "repository": {
